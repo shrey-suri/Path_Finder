@@ -1,2 +1,16 @@
-# UCSD-Graphs
-In this project I used applet window that shows a map. You can select the places as starting and ending points(only 2 places can be selected) and by selecting the algo(BFS, dijkstra, A- star) and also see how they select the road path.
+# Path Finder
+
+***Language:*** Java <br />
+***Library:*** Java Swing, Applet, Open GL, Google Maps, Microsoft Maps <br />
+***Algorithms:*** Graph Algorithms
+                  - BFS
+                  - Dijkstra
+                  - A- star
+<br />
+
+Summary:
+ User can select a starting and end points/locations on a map and based on the selected algorithm they 
+ will be able to view the shortest path between the two locations. The application also shows the 
+ visualization to the user on how the path was selected. 
+
+
