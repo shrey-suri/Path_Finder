@@ -1,7 +1,7 @@
 # Path Finder
 
 ***Language:*** Java <br />
-***Library:*** Java Swing, Applet, Open GL, Google Maps, Microsoft Maps <br />
+***Library:*** Java Swing, Applet, Open GL, Google Maps <br />
 ***Algorithms:*** **Graph Algorithms** - BFS Dijkstra, A- star <br />
 
 ***Summary:*** <br />
